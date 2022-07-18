@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋🏻 I'm Sean
 
-<!--
-**redshifttt/redshifttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently into Python and all of its quirks. Had been working on Spider Linux but taking a break.
 
-Here are some ideas to get you started:
+Places you can find me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Discord: `redshift#5422`
+
+* Email: `num at privatevoid dot net`
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=redshifttt&show_icons=true&theme=tokyonight)
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redshifttt&layout=compact)
