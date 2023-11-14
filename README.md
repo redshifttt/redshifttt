@@ -10,6 +10,14 @@ Places you can find me:
 
 Note: the above is since May 2023.
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=redshifttt&show_icons=true&theme=github_dark&hide_border=true)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=redshifttt&show_icons=true&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=redshifttt&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=redshifttt&show_icons=true&hide_border=true" />
+</picture>
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redshifttt&theme=github_dark&layout=compact&hide_border=true)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=redshifttt&theme=github_dark&layout=compact&hide_border=true" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=redshifttt&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshifttt&layout=compact&hide_border=true" />
+</picture>
