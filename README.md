@@ -1,10 +1,8 @@
-### Hi there 👋🏻
+### Hi there
 
-I do mainly Python right now but various other things too that you can see [here](https://github.com/redshifttt?tab=repositories&q=&type=&language=&sort=stargazers) and [here](https://github.com/spider-linux).
+My projects: [here](https://github.com/redshifttt?tab=repositories&q=&type=&language=&sort=stargazers).
 
 Places you can find me:
-
-* Discord: `redshift#5422`
 
 * Email: [num@privatevoid.net](mailto:num@privatevoid.net)
 
@@ -12,6 +10,6 @@ Places you can find me:
 
 Note: the above is since May 2023.
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=redshifttt&show_icons=true&theme=tokyonight)
+![my github stats](https://github-readme-stats.vercel.app/api?username=redshifttt&show_icons=true&theme=github_dark&hide_border=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redshifttt&layout=compact)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redshifttt&theme=github_dark&layout=compact&hide_border=true)
